@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['reader_5fdeister_0',['READER_DEISTER',['../deisterreaderprovider_8hpp.html#a0dcb276802fd0c396c10ccd365c3f557',1,'deisterreaderprovider.hpp']]],
+  ['reader_5felatec_1',['READER_ELATEC',['../elatecreaderprovider_8hpp.html#ab6a948b69b77d28db297a6a70ee313dd',1,'elatecreaderprovider.hpp']]],
+  ['reader_5fgunnebo_2',['READER_GUNNEBO',['../gunneboreaderprovider_8hpp.html#a140dfb519905c33f11393f0416073918',1,'gunneboreaderprovider.hpp']]],
+  ['reader_5fiso7816_3',['READER_ISO7816',['../iso7816readerunitconfiguration_8hpp.html#a444bbaf4a14e759e8f069ae6e2ea8cc7',1,'iso7816readerunitconfiguration.hpp']]],
+  ['reader_5fkeyboard_4',['READER_KEYBOARD',['../keyboardreaderprovider_8hpp.html#a632046b122b4a5c1ac877e71d49362cf',1,'keyboardreaderprovider.hpp']]],
+  ['reader_5flibusb_5',['READER_LIBUSB',['../libusbreaderprovider_8hpp.html#ab1d43853fddfd999ebd895d7c822f98b',1,'READER_LIBUSB():&#160;libusbreaderprovider.hpp'],['../libusbreaderunit_8hpp.html#ab1d43853fddfd999ebd895d7c822f98b',1,'READER_LIBUSB():&#160;libusbreaderunit.hpp']]],
+  ['reader_5fok5553_6',['READER_OK5553',['../ok5553readerprovider_8hpp.html#a18532318efed993dbd15fac7a59ff104',1,'ok5553readerprovider.hpp']]],
+  ['reader_5fosdp_7',['READER_OSDP',['../osdpreaderprovider_8hpp.html#ac0b711eb37d713979b6f8c66fb5b7dc6',1,'osdpreaderprovider.hpp']]],
+  ['reader_5fpcsc_8',['READER_PCSC',['../pcscreaderprovider_8hpp.html#a083feb7dd5265894ffd486bfd544202c',1,'pcscreaderprovider.hpp']]],
+  ['reader_5frfideas_9',['READER_RFIDEAS',['../rfideasreaderprovider_8hpp.html#a486e47c56eae19b3c158b854653f392a',1,'rfideasreaderprovider.hpp']]],
+  ['reader_5fstidstr_10',['READER_STIDSTR',['../stidstrreaderprovider_8hpp.html#ad846b4e9f1aaf550ed4ab8329fbfec57',1,'stidstrreaderprovider.hpp']]],
+  ['report_5ftype_5ffeature_11',['REPORT_TYPE_FEATURE',['../libusbdatatransport_8hpp.html#a49588b925bc8b8685d09106ac278bb64',1,'libusbdatatransport.hpp']]],
+  ['resp_5fpending_5fflag_12',['RESP_PENDING_FLAG',['../yubikeydatatransport_8hpp.html#a6091786da24fa1c45deb6cd8f325a461',1,'yubikeydatatransport.hpp']]],
+  ['resp_5ftimeout_5fwait_5fflag_13',['RESP_TIMEOUT_WAIT_FLAG',['../yubikeydatatransport_8hpp.html#a476dad7a2022debcc54169b569c03d90',1,'yubikeydatatransport.hpp']]],
+  ['resp_5ftimeout_5fwait_5fmask_14',['RESP_TIMEOUT_WAIT_MASK',['../yubikeydatatransport_8hpp.html#a1d15204b7f3581e64712c0c5860e1985',1,'yubikeydatatransport.hpp']]],
+  ['rol_15',['ROL',['../tomcrypt__macros_8h.html#a2e1da5c8810967170c889976d1fe9fa1',1,'tomcrypt_macros.h']]],
+  ['rol64_16',['ROL64',['../tomcrypt__macros_8h.html#a11721d8ea2f76401b4a51abc07c09eae',1,'tomcrypt_macros.h']]],
+  ['rol64c_17',['ROL64c',['../tomcrypt__macros_8h.html#a1c394d78d382cd32f945dc552a986fba',1,'tomcrypt_macros.h']]],
+  ['rolc_18',['ROLc',['../tomcrypt__macros_8h.html#a39d625dc0b148466a72c13737e063d86',1,'tomcrypt_macros.h']]],
+  ['ror_19',['ROR',['../tomcrypt__macros_8h.html#a77e6e81d8ff86d6c17b9bd73658fb393',1,'tomcrypt_macros.h']]],
+  ['ror64_20',['ROR64',['../tomcrypt__macros_8h.html#a54395352f505e61474b01f454393167a',1,'tomcrypt_macros.h']]],
+  ['ror64c_21',['ROR64c',['../tomcrypt__macros_8h.html#a140a16d966f0c47c50c62c96f44879e7',1,'tomcrypt_macros.h']]],
+  ['rorc_22',['RORc',['../tomcrypt__macros_8h.html#adb04fb3f7c1736d29125ad0f179b1068',1,'tomcrypt_macros.h']]]
+];

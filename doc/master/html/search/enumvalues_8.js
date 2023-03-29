@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['iclass_5f14443_5fb_0',['ICLASS_14443_B',['../namespacelogicalaccess_1_1Techno.html#a0fd2b68dd84a0254acecc1ac9c1a814ba5f33430cf70c10a2d1abf56692305986',1,'logicalaccess::Techno']]],
+  ['iclass_5f15693_1',['ICLASS_15693',['../namespacelogicalaccess_1_1Techno.html#a0fd2b68dd84a0254acecc1ac9c1a814baec1111df9f425bf5097f8281745b30f9',1,'logicalaccess::Techno']]],
+  ['icode1_2',['ICODE1',['../namespacelogicalaccess_1_1Techno.html#a0fd2b68dd84a0254acecc1ac9c1a814babeb3809ef05b7173762d9917f956bd72',1,'logicalaccess::Techno']]],
+  ['idle_3',['IDLE',['../structlogicalaccess_1_1CL1356PlusUtils_1_1Info.html#aa7c168b67dbca0826d884d787f795699aa5daf7f2ebbba4975d61dab1c40188c7',1,'logicalaccess::CL1356PlusUtils::Info']]],
+  ['ieee_5f802_4',['IEEE_802',['../classlogicalaccess_1_1ManchesterEncoder.html#ad21c3020b01fc9784e887ca738b5d756a78b2376a79686f7330493eab18c693be',1,'logicalaccess::ManchesterEncoder']]],
+  ['ift_5fcyclic_5',['IFT_CYCLIC',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caa2813748273a66bef81f6d4ddbfb1f5b4',1,'logicalaccess']]],
+  ['ift_5fdirectory_6',['IFT_DIRECTORY',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caabff315d891132f5b2934806fd766bca7',1,'logicalaccess']]],
+  ['ift_5flinear_5ffixed_7',['IFT_LINEAR_FIXED',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caac191c7b1ef51f416bf4ff5ff4ec2e830',1,'logicalaccess']]],
+  ['ift_5flinear_5fvariable_8',['IFT_LINEAR_VARIABLE',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caae3c1798374ec5e9370f5a9f5380b0a67',1,'logicalaccess']]],
+  ['ift_5fmaster_9',['IFT_MASTER',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caac868113cccce125baf90c669e104d75b',1,'logicalaccess']]],
+  ['ift_5fnone_10',['IFT_NONE',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caab2ac953121909db35a66d1da6f6d8432',1,'logicalaccess']]],
+  ['ift_5ftransparent_11',['IFT_TRANSPARENT',['../namespacelogicalaccess.html#a4ee0daad87897ed61aa306a8d86c28caabe0b2d270f362d84cbd69c68faf7f46d',1,'logicalaccess']]],
+  ['im_5fiso14443a_12',['IM_ISO14443A',['../namespacelogicalaccess.html#a80cefb70a2b421294e8a5fae04645101a5cbecfcad4661f7494528dd00cd6b751',1,'logicalaccess']]],
+  ['im_5fiso14443b_13',['IM_ISO14443B',['../namespacelogicalaccess.html#a80cefb70a2b421294e8a5fae04645101a5368dd03f3fb74bf878d25ac3be5327f',1,'logicalaccess']]],
+  ['im_5funknown_14',['IM_UNKNOWN',['../namespacelogicalaccess.html#a80cefb70a2b421294e8a5fae04645101a76745c9f9d2c894c7d38fef1185550bc',1,'logicalaccess']]],
+  ['infos_15',['INFOS',['../namespacelogicalaccess.html#a25daea2741b60cd8edf52e14f5c1a2afafb6d3001de03a4a394fefe7e8ba43327',1,'logicalaccess']]],
+  ['invalid_5fcla_5fbyte_16',['INVALID_CLA_BYTE',['../classlogicalaccess_1_1CardException.html#a0e06286dc2b48b2f295c65366fb159feab462743fde904b432c6e737a820b0398',1,'logicalaccess::CardException']]],
+  ['invaliddata_17',['InvalidData',['../namespacelogicalaccess.html#a6c6dfbdfe62c8141866583a0daa671e4a3c4b6828f5a12280debdb5a12e0e72ba',1,'logicalaccess']]],
+  ['iso_5f14443_5fa_18',['ISO_14443_A',['../namespacelogicalaccess_1_1Techno.html#a0fd2b68dd84a0254acecc1ac9c1a814ba94245a41780084a6301438ea8e7e25f5',1,'logicalaccess::Techno']]],
+  ['iso_5f14443_5fb_19',['ISO_14443_B',['../namespacelogicalaccess_1_1Techno.html#a0fd2b68dd84a0254acecc1ac9c1a814ba603d4bdf08c20271bc710e89b01e90ca',1,'logicalaccess::Techno']]],
+  ['iso_5f15693_20',['ISO_15693',['../namespacelogicalaccess_1_1Techno.html#a0fd2b68dd84a0254acecc1ac9c1a814bad9ce7cbd6ac1c808a185b535d3b13c38',1,'logicalaccess::Techno']]],
+  ['iso_5frecord_5fallrecords_21',['ISO_RECORD_ALLRECORDS',['../namespacelogicalaccess.html#a07213be4eef71fbecbcbd8080b3136ccaf6e17e43adbe18e70d485963f32066eb',1,'logicalaccess']]],
+  ['iso_5frecord_5fonerecord_22',['ISO_RECORD_ONERECORD',['../namespacelogicalaccess.html#a07213be4eef71fbecbcbd8080b3136cca3370c1cabcde1b5bbe6455d1540dcaf1',1,'logicalaccess']]]
+];

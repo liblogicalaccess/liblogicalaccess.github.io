@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['rawformat_0',['RawFormat',['../namespacelogicalaccess.html#a9e36caadcdfa361cf38b2ba1a50c39feac7359bd00dc54ffd8cc1cc9435321660',1,'logicalaccess']]],
+  ['rawpgm_1',['RawPGM',['../namespacelogicalaccess.html#a5a39183b4969fa475d63aef276de0c85aec291bc0bc0297ba72b4d120394bf071',1,'logicalaccess']]],
+  ['read_2',['READ',['../structlogicalaccess_1_1OmnikeyXX21ReaderUnit_1_1SecureModeStatus.html#ae0a6f1dcd29336068d11dc358c70d030ab6b8644d7fa8580f2626bf3c806eaedd',1,'logicalaccess::OmnikeyXX21ReaderUnit::SecureModeStatus']]],
+  ['readers_5ftype_3',['READERS_TYPE',['../classlogicalaccess_1_1LibraryManager.html#a5b3fb771602f772d6c12f6f8d6b4374aa12d53d373dc1935562821aac3aed9d99',1,'logicalaccess::LibraryManager']]],
+  ['ready_4',['READY',['../structlogicalaccess_1_1CL1356PlusUtils_1_1Info.html#aa7c168b67dbca0826d884d787f795699a2baa69eafc7204f3bd8648eba580c489',1,'logicalaccess::CL1356PlusUtils::Info']]],
+  ['readytoproceed_5',['ReadyToProceed',['../namespacelogicalaccess.html#a6c6dfbdfe62c8141866583a0daa671e4a317903bdee67df0e7fc20dd2d12a97fe',1,'logicalaccess']]],
+  ['rebooting_6',['Rebooting',['../namespacelogicalaccess.html#a6c6dfbdfe62c8141866583a0daa671e4a46caef17790fcbc2eed679b680fa7e97',1,'logicalaccess']]],
+  ['red_7',['Red',['../namespacelogicalaccess.html#a1446fcaf0e909023382674d9013eb58daee38e4d5dd68c4e440825018d549cb47',1,'logicalaccess']]],
+  ['reference_5fkey_5funusable_8',['REFERENCE_KEY_UNUSABLE',['../classlogicalaccess_1_1CardException.html#a0e06286dc2b48b2f295c65366fb159fea24d7e98bfcf07c95ae7352e25b374c64',1,'logicalaccess::CardException']]],
+  ['reverseread_9',['ReverseRead',['../namespacelogicalaccess.html#a499db7f860b75501b100ad2c641f036aa346e721b37f970587766044c18f36acc',1,'logicalaccess']]],
+  ['righthandgeometry_10',['RightHandGeometry',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832a83f3449cec58a6f416072bdb1d691813',1,'logicalaccess']]],
+  ['rightindexfingerprint_11',['RightIndexFingerPrint',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832ad77531f2dd0341c24e6cd55c5b755b84',1,'logicalaccess']]],
+  ['rightirisscan_12',['RightIrisScan',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832afa2049412dbe911244753fb48eb26bf9',1,'logicalaccess']]],
+  ['rightlittlefingerprint_13',['RightLittleFingerPrint',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832ab6ad2b939544ab00e86d7e0d490b9191',1,'logicalaccess']]],
+  ['rightmiddlefingerprint_14',['RightMiddleFingerPrint',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832aae554716a4ccd13ad807000bf11756b3',1,'logicalaccess']]],
+  ['rightretinascan_15',['RightRetinaScan',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832ab5610f974454ad16ca2a5005e6198fd5',1,'logicalaccess']]],
+  ['rightringfingerprint_16',['RightRingFingerPrint',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832adf3f397e5c7aca822e3d5ef5fe56cab2',1,'logicalaccess']]],
+  ['rightthumbprint_17',['RightThumbPrint',['../namespacelogicalaccess.html#a98054aa751473e48d45a91d58c0ec832a852c101d86dbd6be493b237bd4ea6a6d',1,'logicalaccess']]],
+  ['rst_5flicense_5fchecker_18',['RST_LICENSE_CHECKER',['../namespacelogicalaccess.html#a344cf1a2ac9b7c337250e76871d634e9a3da91e1ef98297db0767de3b16ca9d8d',1,'logicalaccess']]]
+];
